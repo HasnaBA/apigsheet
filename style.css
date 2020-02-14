@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    margin-top: 50px;
+    height: 80%;
+    width:80%;
+    background-color: rgb(197, 207, 207);
+}
+
+h1 {
+    margin-bottom: 50px;
+    align-items: center;
+}
+
+.row {
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.btn {
+    margin-top: 50px;
+}
